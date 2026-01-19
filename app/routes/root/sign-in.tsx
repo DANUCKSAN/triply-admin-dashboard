@@ -53,4 +53,4 @@ const SignIn = () => {
         </main>
     )
 }
-export default SignIn
+export default SignIn;
